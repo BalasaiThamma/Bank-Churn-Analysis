@@ -1,7 +1,5 @@
 --KPI (Bank Churn Analysis)
 
-USE [Bank Churn DB] --Run this query to select database first or you can copy and paste below queries to your query window and run
-
 --See All Data From Table
 SELECT * FROM bank_churn_data
 
@@ -134,6 +132,7 @@ SELECT
 FROM bank_churn_data
 WHERE months_on_book > 53
 ORDER BY balance DESC;
+
 
 
 
