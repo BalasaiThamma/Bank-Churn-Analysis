@@ -4,7 +4,7 @@
 
 This project focuses on analysing customer behaviour and financial health in the retail banking sector, with a primary emphasis on credit card usage and customer churn. The goal is to identify key factors that influence customer retention and provide business insights that can help banks reduce churn and improve customer engagement.
 
-The analysis is performed using MS SQL Server, applying structured queries to explore, filter, and analyse banking data from a business perspective.
+The analysis is performed using MySQL Server, applying structured queries to explore, filter, and analyse banking data from a business perspective.
 
 🎯 Objectives
 
@@ -50,7 +50,7 @@ Utilization Ratio – Percentage of credit limit currently used
 
 🛠️ Tools & Technologies Used
 
-Database: MS SQL Server
+Database: MySQL Server
 
 Language: SQL
 
