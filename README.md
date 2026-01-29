@@ -60,7 +60,7 @@ Domain: Banking & Financial Analytics
 
 Identifying high-risk customers likely to churn
 
-Segmenting customers based on income, age, and card category
+Segmenting customers based on income, age  and card category
 
 Monitoring credit utilization to manage financial risk
 
